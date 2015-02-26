@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "i.smartcoda@gmail.com",
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Tutorial 1",
+    "uuid": "16970330-f111-4574-9b52-c5af7158d158",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
